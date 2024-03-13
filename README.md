@@ -4,8 +4,18 @@
 -Configured tailwindCss
 
 - header
+- Routing of app
 - login form
 - sign up form
+- Form validation
+- useRef hook
+- firebase setup
+- deploying our app to production
+- Create Signup user account
+- Implement Sign in user Api
+- Created redux store with userSlice
+- implemented signout
+- updated profile api call
 
 # Features
 
